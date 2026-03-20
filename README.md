@@ -102,22 +102,16 @@ We propose an AI-driven parametric insurance system that:
 
 ---
 
-## Deliverables (Phase 1)
-
-- Idea documentation (this README)  
-- GitHub repository setup  
-- 2-minute project explanation video  
-
----
-
 ## Goal
 To build a scalable and intelligent insurance platform that transforms traditional insurance into an automated, real-time safety net for gig workers, ensuring income protection during unpredictable external events.
 
 ---
 
 ## Contributors
-- Your Name  
-- Team Members (if any)  
+- Nanduri Akshaya Naidu. 
+- Kavala Sai Venakata SuryaNaryana.
+- Nishitha Veeramsetti.
+- Kandi Jyothsna Sri Sai.
 
 ---
 
